@@ -1,0 +1,23 @@
+# Secrets & auth
+**/*auth*.json
+**/*cookie*
+**/.env
+**/.env.*
+**/credentials*
+**/secrets/
+
+# Scraped media (keep local only)
+**/media/
+**/fb-repost-*/
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.mp4
+**/*.webp
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
